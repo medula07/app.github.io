@@ -10,6 +10,10 @@ html {
   background-size: cover;
 }
 
+h1 {
+  border-color: firebrick;
+}
+
 hr {
   border-color: firebrick;
   border-width: 3px;
