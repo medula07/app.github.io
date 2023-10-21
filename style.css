@@ -10,6 +10,11 @@ html {
   background-size: cover;
 }
 
+.container {
+  border-left: 600px;
+  border-right: 100px;
+}
+
 hr {
   border-color: firebrick;
   border-width: 3px;
@@ -40,6 +45,3 @@ hr {
   padding: 1rem 2rem;
 }
 
-.container {
--ms-flex-item-align: auto;
-}
