@@ -10,9 +10,8 @@ html {
   background-size: cover;
 }
 
-.container {
-  border-left: 600px;
-  border-right: 100px;
+.container h1 {
+  color: firebrick;
 }
 
 hr {
