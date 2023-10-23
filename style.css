@@ -17,38 +17,44 @@ ul {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  margin-top: 150px;
+  margin-top: 70px;
 }
 
 .container h1 {
-  color: black;
-  font-size: 70px;
+  color: green;
+  font-size: 50px;
+  text-shadow: 4px 4px 5px black;
 }
 
 hr {
   border-color: firebrick;
   border-width: 3px;
   max-width: 100px;
+  box-shadow: 4px 4px 4px black;
 }
 
 .buffer {
-  height: 50px;
+  height: 30px;
+  color: black;
+  text-shadow: 2px 2px 3px firebrick;
 }
 
 .btn {
   font: weight 700;;
-  border-radius: 600px;
+  border-radius: 400px;
 }
 
 .btn-primary {
   background-color: firebrick;
   border-color: firebrick;
+  box-shadow: 4px 4px 5px black;
 }
 
 .btn-primary:hover {
-  background-color: chartreuse;
-  border-color: chartreuse;
+  background-color: green;
+  border-color: green;
   border-width: 4px;
+  box-shadow: 4px 4px 5px black;
 }
 
 .btn-xl {
