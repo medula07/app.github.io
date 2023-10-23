@@ -35,8 +35,8 @@ hr {
 
 .buffer {
   height: 30px;
-  color: black;
-  text-shadow: 2px 2px 3px firebrick;
+  color: firebrick;
+  text-shadow: 2px 2px 3px black;
 }
 
 .btn {
