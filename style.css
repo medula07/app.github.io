@@ -21,7 +21,8 @@ ul {
 }
 
 .container h1 {
-  color: chartreuse;
+  color: black;
+  font-size: 70px;
 }
 
 hr {
