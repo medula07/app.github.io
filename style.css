@@ -9,8 +9,15 @@ body {
   background-size: cover;
 }
 
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 200px;
+}
+
 .container h1 {
-  color: firebrick;
+  color: chartreuse;
 }
 
 hr {
