@@ -9,15 +9,20 @@ body {
   background-size: cover;
 }
 
+ul {
+  list-style-type: none;
+}
+
 .container {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  margin-top: 200px;
+  margin-top: 150px;
 }
 
 .container h1 {
-  color: chartreuse;
+  color: black;
+  font-size: 70px;
 }
 
 hr {
@@ -32,7 +37,7 @@ hr {
 
 .btn {
   font: weight 700;;
-  border-radius: 300pv;
+  border-radius: 600px;
 }
 
 .btn-primary {
