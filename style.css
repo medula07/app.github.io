@@ -17,12 +17,11 @@ ul {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  margin-top: 150px;
+  margin-top: 200px;
 }
 
 .container h1 {
-  color: black;
-  font-size: 70px;
+  color: chartreuse;
 }
 
 hr {
