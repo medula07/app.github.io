@@ -21,9 +21,9 @@ ul {
 }
 
 .container h1 {
-  color: green;
+  color: black;
   font-size: 50px;
-  text-shadow: 4px 4px 5px black;
+  text-shadow: 4px 4px 5px green;
 }
 
 hr {
