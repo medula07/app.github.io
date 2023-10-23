@@ -17,14 +17,14 @@ body {
 }
 
 .container h1 {
-  color: chartreuse;
+  color: firebrick;
+  text-font: 700px;
 }
 
 hr {
   border-color: firebrick;
   border-width: 3px;
   max-width: 100px;
-  text-font: 700px
 }
 
 .buffer {
