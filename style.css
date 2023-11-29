@@ -22,10 +22,10 @@ ul {
 
 @keyframes grow {
   from {
-    font-size:20px
+    font-size:10px
   }
   to {
-    font-size:100px
+    font-size:50px
   }
 }
 
@@ -34,7 +34,7 @@ ul {
   animation-duration: 2s;
   animation-fill-mode: forwards;
   color: green;
-  font-size: 20px;
+  font-size: 10px;
   text-shadow: 4px 4px 5px black;
 }
 
