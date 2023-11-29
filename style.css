@@ -22,7 +22,7 @@ ul {
 
 @keyframes grow {
   from {
-    font-size:10px
+    font-size:2px
   }
   to {
     font-size:50px
