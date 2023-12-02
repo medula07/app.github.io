@@ -20,9 +20,19 @@ ul {
   margin-top: 120px;
 }
 
-
+@keyframes bounceOut {
+  from {
+    font-size: 20px;
+  }
+  to {
+    font-size: 50px;
+  }
+}
 
 .container h1 {
+  animation-name: bounceOut;
+  animation-duration: 2s;
+  animation-fill-mode: forwards;
   color: green;
   font-size: 50px;
   text-shadow: 4px 4px 5px black;
