@@ -10,16 +10,16 @@ body {
 }
 
 .logo-container{
-  left: 70px;
+  left: 50px;
   position: absolute;
   top: 20px;
    z-index: 3;
 }
 .logo-container .logo{
   overflow: hidden;
-  border-radius: 30%;
+  border-radius: 50%;
   border: 1px solid black;
-  width: 70px; 
+  width: 60px; 
   float: left;
 }
 
