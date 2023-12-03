@@ -22,7 +22,6 @@ body {
   width: 60px; 
   float: left;
 }
-
 .container {
   display: flex;
   flex-wrap: wrap;
