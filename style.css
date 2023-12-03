@@ -10,7 +10,7 @@ body {
 }
 
 .logo-container{
-  left: 50px;
+  left: 10px;
   position: absolute;
   top: 20px;
    z-index: 3;
@@ -18,8 +18,8 @@ body {
 .logo-container .logo{
   overflow: hidden;
   border-radius: 10%;
-  border: 1px solid #333333;
-  width: 10px; 
+  border: 1px solid black;
+  width: 70px; 
   float: left;
 }
 
