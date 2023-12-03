@@ -9,8 +9,18 @@ body {
   background-size: cover;
 }
 
-ul {
-  list-style-type: none;
+.logo-container{
+  left: 50px;
+  position: absolute;
+  top: 20px;
+   z-index: 3;
+}
+.logo-container .logo{
+  overflow: hidden;
+  border-radius: 50%;
+  border: 1px solid #333333;
+  width: 60px; 
+  float: left;
 }
 
 .container {
