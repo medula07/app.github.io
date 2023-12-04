@@ -57,11 +57,8 @@ hr {
 
 .buffer {
   height: 30px;
-<<<<<<< HEAD
   color: orange;
-=======
   color: firebrick;
->>>>>>> 2ea3c8b43bafaaee54db9840be59d68a586f654d
   text-shadow: 2px 2px 3px black;
 }
 
