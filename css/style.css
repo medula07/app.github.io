@@ -9,13 +9,13 @@ body {
   background-size: cover;
 }
 
-.logo-container{
+.logo-container {
   left: 50px;
   position: absolute;
   top: 20px;
    z-index: 3;
 }
-.logo-container .logo{
+.logo-container .logo {
   overflow: hidden;
   border-radius: 70%;
   border: 1px solid green;
