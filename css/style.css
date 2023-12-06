@@ -9,6 +9,11 @@ body {
   background-size: cover;
 }
 
+
+ul {
+  list-style-type: none;
+}
+
 .navbar {
   text-align: right;
 }
@@ -20,7 +25,7 @@ body {
 }
 
 .navbar a {
-  color: #202124;
+  color: orange;
 }
 
 .navbar a, .navbar a:active, .navbar a:hover, .navbar a:visited {
@@ -31,9 +36,6 @@ body {
   text-decoration: underline;
 }
 
-ul {
-  list-style-type: none;
-}
 
 .logo-container {
   left: 50px;
