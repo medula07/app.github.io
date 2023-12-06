@@ -9,6 +9,32 @@ body {
   background-size: cover;
 }
 
+.navbar {
+  text-align: right;
+}
+
+.navbar li {
+  display: inline-block;
+  padding: 10px;
+  
+}
+
+.navbar a {
+  color: #202124;
+}
+
+.navbar a, .navbar a:active, .navbar a:hover, .navbar a:visited {
+  text-decoration: none;
+}
+
+.navbar a:active, .navbar a:hover {
+  text-decoration: underline;
+}
+
+ul {
+  list-style-type: none;
+}
+
 .logo-container {
   left: 50px;
   position: absolute;
