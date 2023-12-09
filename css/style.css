@@ -34,7 +34,7 @@ body {
 
 
 .logo-container {
-  left: 60px;
+  left: 70px;
   position: absolute;
   top: 20px;
    z-index: 3;
@@ -43,7 +43,7 @@ body {
   overflow: hidden;
   border-radius: 70%;
   border: 1px solid green;
-  width: 60px; 
+  width: 70px; 
   height: 70px;
   float: left;
 }
