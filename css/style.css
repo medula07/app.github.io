@@ -10,7 +10,7 @@ body {
 }
 
 .navbar {
-  height: 50px;
+  height: 75px;
   text-align: right;
 }
 
@@ -34,7 +34,7 @@ body {
 
 
 .logo-container {
-  left: 50px;
+  left: 60px;
   position: absolute;
   top: 20px;
    z-index: 3;
@@ -43,7 +43,7 @@ body {
   overflow: hidden;
   border-radius: 70%;
   border: 1px solid green;
-  width: 70px; 
+  width: 60px; 
   height: 70px;
   float: left;
 }
