@@ -11,16 +11,26 @@ body {
 
 .navbar-nav > li {
   display: inline-block;
+  padding: 10px;
 }
 
 .navbar-nav > li > a {
-  margin-top: 13px;
-  margin-bottom: 13px;
-  padding-bottom: 12px;
-  padding-top: 12px;
+  margin: 5px;
+  padding: 12px;
   font-size: 16px;
 }
 
+.navbar-nav > a {
+  color: #202124;
+}
+
+.navbar > a, .navbar > a:active, .navbar > a:hover, .navbar > a:visited {
+  text-decoration: none;
+}
+
+.navbar > a:active, .navbar > a:hover {
+  text-decoration: underline;
+}
 
 
 .logo-container {
