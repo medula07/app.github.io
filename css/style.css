@@ -9,7 +9,7 @@ body {
   background-size: cover;
 }
 
-.navbar-nav li {
+.navbar-nav > li {
   display: inline-block;
 }
 
