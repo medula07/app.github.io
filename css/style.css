@@ -24,11 +24,11 @@ body {
   color: #202124;
 }
 
-.navbar > a, .navbar > a:active, .navbar > a:hover, .navbar > a:visited {
+.navbar-nav > a, .navbar-nav > a:active, .navbar-nav > a:hover, .navbar-nav > a:visited {
   text-decoration: none;
 }
 
-.navbar > a:active, .navbar > a:hover {
+.navbar-nav > a:active, .navbar-nav > a:hover {
   text-decoration: underline;
 }
 
