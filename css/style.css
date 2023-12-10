@@ -2,43 +2,14 @@ body {
   width: 100%;
   height: 100%;
   font-family: 'Montserrat', sans-serif;
-  background: url(https://photos.app.goo.gl/KJjn5p21tT63UzRs6) no-repeat center center fixed; 
+  background: url(images/header.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
 }
 
-.ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-}
 
-.navbar {
-  height: 75px;
-  text-align: right;
-}
-
-.navbar li {
-  display: inline-block;
-  padding: 3px;
-  margin: 3px;
-  list-style-type: none;
-}
-
-.navbar a {
-  color: orange;
-}
-
-.navbar a, .navbar a:active, .navbar a:hover, .navbar a:visited {
-  text-decoration: none;
-}
-
-.navbar a:active, .navbar a:hover {
-  text-decoration: underline;
-}
 
 
 .logo-container {
