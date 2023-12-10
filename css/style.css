@@ -9,6 +9,11 @@ body {
   background-size: cover;
 }
 
+.navbar-nav {
+  height: 20px;
+  width: auto;
+}
+
 .navbar-nav > li {
   display: inline-block;
   padding: 10px;
