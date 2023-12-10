@@ -9,6 +9,10 @@ body {
   background-size: cover;
 }
 
+.navbar-nav li {
+  display: inline-block;
+}
+
 .navbar-nav > li > a {
   margin-top: 13px;
   margin-bottom: 13px;
