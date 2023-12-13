@@ -11,11 +11,18 @@ html {
 }
 
 .navbar {
-  text-align: right;
+  text-align:right;
+}
+
+.navbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
 }
 
 .navbar li a {
   display: inline-block;
+  float: right
   padding: 10px;
   margin: 5px;
   font-size: 16px;
@@ -31,12 +38,6 @@ html {
 
 .navbar a:active, .navbar a:hover {
   text-decoration: underline;
-}
-
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
 }
 
 .logo-container {
