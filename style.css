@@ -16,7 +16,8 @@ html {
 
 .navbar li {
   display: inline-block;
-  padding: 10px;
+  list-style-type: none;
+  padding: 30px;
 }
 
 .navbar a {
@@ -29,12 +30,6 @@ html {
 
 .navbar a:active, .navbar a:hover {
   text-decoration: underline;
-}
-
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
 }
 
 .logo-container {
