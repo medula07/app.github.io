@@ -41,7 +41,7 @@ html {
 }
 
 .logo-container {
-  left: 20px;
+  left: 50px;
   position: absolute;
   top: 20px;
    z-index: 3;
@@ -59,7 +59,7 @@ html {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  margin-top: 100px;
+  margin-top: 70px;
 }
 
 @keyframes grow {
