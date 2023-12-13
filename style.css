@@ -31,6 +31,12 @@ html {
   text-decoration: underline;
 }
 
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
 .logo-container {
   left: 50px;
   position: absolute;
