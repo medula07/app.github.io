@@ -14,10 +14,12 @@ html {
   text-align: right;
 }
 
-.navbar li {
+.navbar li a {
   display: inline-block;
   list-style-type: none;
   padding: 30px;
+  margin: 5px;
+  font-size: 16px;
 }
 
 .navbar a {
