@@ -59,7 +59,7 @@ html {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  margin-top: 70px;
+  margin-top: 50px;
 }
 
 @keyframes grow {
