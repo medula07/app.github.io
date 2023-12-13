@@ -10,36 +10,6 @@ html {
   background-size: cover;
 }
 
-.navbar {
-  text-align:right;
-}
-
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-}
-
-.navbar li a {
-  display: inline-block;
-  float: right
-  padding: 10px;
-  margin: 5px;
-  font-size: 16px;
-}
-
-.navbar a {
-  color: orange;
-}
-
-.navbar a, .navbar a:active, .navbar a:hover, .navbar a:visited {
-  text-decoration: none;
-}
-
-.navbar a:active, .navbar a:hover {
-  text-decoration: underline;
-}
-
 .logo-container {
   left: 50px;
   position: absolute;
