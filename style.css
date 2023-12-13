@@ -10,6 +10,27 @@ html {
   background-size: cover;
 }
 
+.navbar {
+  text-align: right;
+}
+
+.navbar li {
+  display: inline-block;
+  padding: 10px;
+}
+
+.navbar a {
+  color: orange;
+}
+
+.navbar a, .navbar a:active, .navbar a:hover, .navbar a:visited {
+  text-decoration: none;
+}
+
+.navbar a:active, .navbar a:hover {
+  text-decoration: underline;
+}
+
 .logo-container {
   left: 50px;
   position: absolute;
@@ -23,29 +44,6 @@ html {
   width: 70px; 
   height: 70px;
   float: left;
-}
-
-.navbar-nav {
-  display: inline-block;
-  padding: 5px;
-}
-
-.navbar-nav > li > a {
-  margin: 5px;
-  padding: 12px;
-  font-size: 16px;
-}
-
-.navbar-nav > a {
-  color: #202124;
-}
-
-.navbar-nav > a, .navbar-nav > a:active, .navbar-nav > a:hover, .navbar-nav > a:visited {
-  text-decoration: none;
-}
-
-.navbar-nav > a:active, .navbar-nav > a:hover {
-  text-decoration: underline;
 }
 
 .container {
