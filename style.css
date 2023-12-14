@@ -13,8 +13,8 @@ html {
 .logo-container {
   left: 50px;
   position: absolute;
-  top: 20px;
-   z-index: 3;
+  top: 30px;
+   z-index: 10;
 }
 .logo-container .logo {
   overflow: hidden;
