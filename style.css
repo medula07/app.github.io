@@ -226,7 +226,7 @@ img {
     left: 0;
     width: 100%;
     height: 100%;
-    background-color: #947054;
+    background-color: orange;
     opacity: 0.7;
     content: ''; }
 
@@ -304,9 +304,9 @@ img {
   animation: 1500ms linear 0s normal none infinite running south-load;
   background: transparent;
   border-color: #ffffff;
-  border-top-color: #947054;
-  border-left-color: #947054;
-  border-right-color: #947054;
+  border-top-color: orange;
+  border-left-color: orange;
+  border-right-color: or;
   border-radius: 50%;
   border-style: solid;
   border-width: 2px;
@@ -333,7 +333,7 @@ img {
     transform: rotate(360deg); } }
 /* :: 5.0 Scroll Up Area CSS */
 #scrollUp {
-  background-color: #947054;
+  background-color: orange;
   border-radius: 50%;
   bottom: 40px;
   right: 40px;
@@ -405,13 +405,13 @@ img {
     color: #ffffff;
     background-color: #000000; }
   .south-btn.btn-2 {
-    border: 2px solid #947054;
+    border: 2px solid orange;
     background-color: transparent;
-    color: #947054;
+    color: orange;
     line-height: 46px; }
     .south-btn.btn-2:hover, .south-btn.btn-2:focus {
       color: #ffffff;
-      background-color: #947054; }
+      background-color: orange; }
   .south-btn.btn-3 {
     border: 2px solid #000000;
     background-color: transparent;
@@ -534,7 +534,7 @@ img {
         width: 100%;
         margin-top: 15px;
         line-height: 50px;
-        background-color: #947054; } }
+        background-color: orange; } }
     @media only screen and (max-width: 767px) {
       .main-header-area .searchbtn {
         margin-left: 0;
@@ -542,9 +542,9 @@ img {
         width: 100%;
         margin-top: 15px;
         line-height: 50px;
-        background-color: #947054; } }
+        background-color: orange; } }
     .main-header-area .searchbtn:hover {
-      background-color: #947054; }
+      background-color: orange; }
   .main-header-area .south-search-form {
     position: relative;
     z-index: 1;
@@ -588,7 +588,7 @@ img {
         color: #ffffff; }
 
 .search-close .searchbtn {
-  background-color: #947054; }
+  background-color: orange; }
 .search-close .classynav ul {
   display: none; }
 .search-close .south-search-form {
@@ -658,7 +658,7 @@ img {
   opacity: 0;
   -webkit-transition-duration: 500ms;
   transition-duration: 500ms;
-  background-color: #947054;
+  background-color: orange;
   font-size: 16px; }
   @media only screen and (max-width: 767px) {
     .hero-area .owl-prev,
@@ -705,7 +705,7 @@ img {
   display: block;
   width: 20px;
   height: 20px;
-  background-color: #947054;
+  background-color: orange;
   font-size: 12px;
   color: #ffffff;
   text-align: center;
@@ -753,7 +753,7 @@ img {
       position: absolute;
       width: 260px;
       height: 45px;
-      background-color: #947054;
+      background-color: orange;
       top: -46px;
       left: 50%;
       -webkit-transform: translateX(-50%);
@@ -785,10 +785,10 @@ img {
       border: none;
       height: 4px; }
     .south-search-area .advanced-search-form .ui-widget-content {
-      background: #947054; }
+      background: orange; }
     .south-search-area .advanced-search-form .ui-slider-horizontal {
       height: 4px;
-      background: #947054; }
+      background: orange; }
     .south-search-area .advanced-search-form .ui-corner-all,
     .south-search-area .advanced-search-form .ui-corner-bottom,
     .south-search-area .advanced-search-form .ui-corner-right,
@@ -816,7 +816,7 @@ img {
     .south-search-area .advanced-search-form html .ui-button.ui-state-disabled:hover,
     .south-search-area .advanced-search-form html .ui-button.ui-state-disabled:active {
       border: none;
-      background: #947054;
+      background: orange;
       margin-top: -3px; }
     .south-search-area .advanced-search-form .range {
       font-size: 12px;
@@ -830,7 +830,7 @@ img {
       font-size: 12px;
       color: #323232; }
       .south-search-area .advanced-search-form .more-filter a:hover {
-        color: #947054; }
+        color: orange; }
     .south-search-area .advanced-search-form .search-form-second-steps {
       display: none; }
 
