@@ -487,9 +487,7 @@ img {
     @media only screen and (max-width: 767px) {
       .main-header-area .classy-navbar {
         height: 70px;
-        padding: 0.5em 30px; } }
-      .main-header-area .classy-navbar a brand h3 {
-        color: green; } 
+         padding: 0.5em 30px; } }
   .main-header-area .classynav ul li a {
     color: white;
     text-transform: uppercase;
