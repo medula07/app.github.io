@@ -103,7 +103,7 @@ img {
     top: 13px;
      z-index: 10;
     }
-    .logo-container .logo {
+  .logo-container .logo {
     overflow: hidden;
     border-radius: 50%;
     border: 1px solid green;
